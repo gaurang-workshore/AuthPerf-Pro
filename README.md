@@ -38,7 +38,7 @@ AuthPerf Pro is a specialized performance testing tool designed for modern web a
 git clone https://github.com/gaurang-workshore/AuthPerf-Pro.git
 
 # Navigate to project directory
-cd authenticated-performance-tester
+cd AuthPerf-Pro
 
 # Install dependencies
 npm install
@@ -301,10 +301,10 @@ npm install
 
 ## 📞 Support
 
-- 📧 Email: support@authperf.pro
-- 💬 Discord: [AuthPerf Community](https://discord.gg/authperf)
-- 🐛 Issues: [GitHub Issues](https://github.com/your-username/authenticated-performance-tester/issues)
-- 📖 Documentation: [Wiki](https://github.com/your-username/authenticated-performance-tester/wiki)
+- 📧 Email: gaurang.vasava@workshore.io  
+- 🐛 Issues: [GitHub Issues](https://github.com/gaurang-workshore/AuthPerf-Pro/issues)  
+- 📖 Documentation: [Wiki](https://github.com/gaurang-workshore/AuthPerf-Pro/wiki)
+
 
 ---
 
